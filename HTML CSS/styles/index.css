@@ -1,0 +1,13 @@
+body {
+    background-color: azure;
+}
+
+div #Centralizer {
+    width: 80%; height: auto; margin: auto;
+}
+
+img #TicTacToeImage {
+    width: 100%;
+    height: auto;
+  }
+
